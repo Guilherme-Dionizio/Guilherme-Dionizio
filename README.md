@@ -1,4 +1,4 @@
-# ✨ Hi there, I'm Guilherme! 🚀
+# ✨ Olá, eu sou o Guilherme! 🚀
 
 - 🎓 Cursando **Ciências da Computação**.
 - 🐍 Minha principal linguagem de programação é o **Python**.
@@ -7,7 +7,7 @@
 
 ---
 
-### Languages e Tools 💻
+### Linguagens e ferramentas 💻
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -35,7 +35,7 @@
 
 ---
 
-### Reach me 📫
+### Me alcance 📫
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guidionizio/" target="_blank">
