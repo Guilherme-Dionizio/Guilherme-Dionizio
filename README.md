@@ -1,47 +1,54 @@
-# ✨ Olá, eu sou o Guilherme! 🚀
+# Olá, eu sou o Guilherme Dionizio! 👋
 
-- 🎓 Cursando **Ciências da Computação**.
-- 🐍 Minha principal linguagem de programação é o **Python**.
-- 🛠️ Atualmente aprofundando meus conhecimentos em **FastAPI** e **Django**.
-- 💻 Tenho experiência com desenvolvimento web (JS/HTML/CSS), C e banco de dados SQL.
+### 👨‍💻 Desenvolvedor Back-end | Estudante de Ciência da Computação
 
----
-
-### Linguagens e ferramentas 💻
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-#### Atualmente Estudando 📚
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</p>
+Estudante apaixonado por tecnologia, focado em construir sistemas robustos e eficientes. Atualmente, mergulhado no ecossistema Python e explorando as profundezas das redes e protocolos de comunicação.
 
 ---
 
-### GitHub Stats ⚡
+### 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Dionizio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Dionizio&layout=compact&langs_count=7&theme=dracula" />
+**Linguagens**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Web & Frameworks (Estudando)**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Infraestrutura & Ferramentas**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SSH](https://img.shields.io/badge/ssh-%23000000.svg?style=for-the-badge&logo=openssh&logoColor=white)
+
+---
+
+### 🕹️ Projetos em Destaque
+
+* **[Rhythm Game (Pygame)](https://github.com/Guilherme-Dionizio):** Jogo de ritmo single-player com mecânicas de precisão e música customizável.
+* **[API de Restaurante (FastAPI)](https://github.com/Guilherme-Dionizio):** Gerenciamento de cardápios e pedidos com documentação automática e padrões REST.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Dionizio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Dionizio&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
 
-### Me alcance 📫
+### 📫 Contato
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/guidionizio/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:guidionizioss@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guidionizio)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guidionizioss@gmail.com)
+
+<p align="center">
+  "Transformando café e lógica em soluções eficientes." ☕💻
 </p>
