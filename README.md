@@ -40,14 +40,14 @@
 ### 🕹️ Projetos em Destaque
 
 > [!IMPORTANT]
-> ### [API de Gestão Escolar (FastAPI)](https://github.com/Guilherme-Dionizio/NOME_DO_REPOSITORIO)
+> ### [API de Gestão Escolar (FastAPI)](https://github.com/Guilherme-Dionizio/API_gestao-escolar)
 > Sistema Full Stack para gerenciamento de estudantes, professores e matrículas.
 > * **Back-end:** FastAPI com SQLAlchemy (ORM) e validações complexas via Pydantic.
 > * **Relacionamentos:** Implementação de relações 1:1, 1:N e N:N (tabela intermediária de matrículas).
 > * **Segurança:** Tratamento de erros em português e prevenção de matrículas duplicadas.
 
 > [!TIP]
-> ### [Rhythm Game (Pygame)](https://github.com/Guilherme-Dionizio)
+> ### [Rhythm Game (Pygame)](https://github.com/anhangueraautobots-lab/jogo-sabor-ti)
 > Projeto da faculdade inspirado em *Friday Night Funkin'*, explorando lógica de sincronização musical e manipulação de assets em Python.
 
 ---
