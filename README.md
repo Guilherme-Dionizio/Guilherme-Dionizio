@@ -20,12 +20,20 @@
 #### **Linguagens & Back-end**
 * **Back-end Frameworks:** FastAPI, Django.
 * **Linguagens de Programação:** Python (foco), C, JavaScript.
-* **Banco de Dados:** SQL (PostgreSQL, MySQL, SQLite).
+* **Banco de Dados:** SQL (PostgreSQL, MySQL).
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,js,mysql,postgres,fastapi,django" />
+</p>
 
 #### **Tecnologias Web & Infraestrutura**
 * **Versionamento:** Git, GitHub.
 * **Ambiente & Infra:** Linux, SSH.
 * **Front-end (Básico):** HTML5, CSS3.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,html,css" />
+</p>
 
 ---
 
