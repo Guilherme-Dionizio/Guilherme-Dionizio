@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Core Competencies & Skills
+### 🛠️ Competências e Habilidades Essenciais
 
 #### **Linguagens & Back-end**
 * **Back-end Frameworks:** FastAPI, Django.
@@ -29,23 +29,26 @@
 
 ---
 
-### 🕹️ Featured Projects
+### 🕹️ Projetos em Destaque
+
+> [!IMPORTANT]
+> ### [API de Gestão Escolar (FastAPI)](https://github.com/Guilherme-Dionizio/NOME_DO_REPOSITORIO)
+> Sistema Full Stack para gerenciamento de estudantes, professores e matrículas.
+> * **Back-end:** FastAPI com SQLAlchemy (ORM) e validações complexas via Pydantic.
+> * **Relacionamentos:** Implementação de relações 1:1, 1:N e N:N (tabela intermediária de matrículas).
+> * **Segurança:** Tratamento de erros em português e prevenção de matrículas duplicadas.
 
 > [!TIP]
 > ### [Rhythm Game (Pygame)](https://github.com/Guilherme-Dionizio)
-> Um jogo de ritmo (Friday Night Funkin') focado na implementação de lógica de sincronização musical e precisão de input.
-
-> [!IMPORTANT]
-> ### [API de Restaurante (FastAPI)](https://github.com/Guilherme-Dionizio)
-> Backend robusto para gestão de cardápios, utilizando padrões REST e documentação automática Swagger.
+> Projeto da faculdade inspirado em *Friday Night Funkin'*, explorando lógica de sincronização musical e manipulação de assets em Python.
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Atividade
 
 <div align="center">
   
-  <img src="https://github.com/Guilherme-Dionizio/Guilherme-Dionizio/blob/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha dos Commits" />
+  <img src="https://raw.githubusercontent.com/Guilherme-Dionizio/snk/refs/heads/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="Jogo da Cobrinha dos Commits" />
 
   <br><br>
 
