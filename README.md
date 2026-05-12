@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Olá! Eu sou o Guilherme Dionizio</h1>
   <p><strong>Desenvolvedor Back-end | Estudante de Ciência da Computação</strong></p>
-  <p>Dedico meu tempo ao desenvolvimento de soluções robustas, manipulação e ánalise dados no lado do servidor. Acredito que código limpo e segurança da informação andam de mãos dadas.</p>
+  <p>Dedico meu tempo ao desenvolvimento de soluções robustas, manipulação e ánalise dados no lado do servidor. Acredito que código limpo e a segurança da informação andam de mãos dadas.</p>
 
   <p>
     <a href="https://linkedin.com/in/guidionizio" target="_blank">
