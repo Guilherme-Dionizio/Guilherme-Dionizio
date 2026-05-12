@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Guilherme Dionizio</h1>
+  <h1>👋 Olá! Eu sou o Guilherme Dionizio</h1>
   <p><strong>Desenvolvedor Back-end | Estudante de Ciência da Computação</strong></p>
   <p>Focado na construção de APIs robustas, escaláveis e na resolução de problemas complexos.</p>
 
